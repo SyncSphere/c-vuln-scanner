@@ -1,6 +1,3 @@
-Sure! Here's a clean, professional `README.md` file for your **C/C++ Vulnerability Scanner** written in **Go**, featuring static analysis, unused variable detection, and export to CSV/JSON.
-
----
 
 ```markdown
 # 🔍 C/C++ Vulnerability Scanner
